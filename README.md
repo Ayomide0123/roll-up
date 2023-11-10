@@ -4,7 +4,7 @@ game logic:
 
 ![image](https://github.com/Ayomide0123/roll-up/blob/main/pig-game-flowchart.png)
 
-## Screenshot
+## Screenshots
 
 ![image](https://github.com/Ayomide0123/roll-up/blob/main/screenshots/landing-page.png)
 
